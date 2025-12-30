@@ -1,0 +1,14 @@
+/build/
+/target/
+.idea/
+*.iml
+*.class
+.classpath
+.project
+.settings/
+out/
+*.log
+.DS_Store
+uploads/
+*.war
+*.ear
