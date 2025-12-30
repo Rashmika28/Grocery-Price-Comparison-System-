@@ -12,3 +12,6 @@ out/
 uploads/
 *.war
 *.ear
+# Ignore libraries bundled in the webapp (keep local copies if needed)
+src/main/webapp/WEB-INF/lib/*.jar
+src/main/webapp/WEB-INF/lib/*.zip
